@@ -79,13 +79,14 @@
   height: 100%;
   justify-content: center;
   padding-top: 2em;
+  overflow-y: scroll;
 }
 
 .contact-grid {
   text-align: center;
   justify-content: center;
   width: 80%;
-  height: 550px;
+  height: 100%;
   background: white;
   color: black;
   margin-bottom: 20px;
@@ -169,6 +170,7 @@
   background: #EFEFBB;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to top, #D4D3DD, #EFEFBB);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to top, #D4D3DD, #EFEFBB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  overflow-y: scroll;
 }
 
 .projects-grid{
