@@ -129,32 +129,30 @@ class About extends Component {
     } else if (this.state.activeTab === 1){
       return(
       <div className = "myStory">
-        <h3>Hello,<br></br>
-          My name is Kosay i'm from Syria.<br></br>
-          When i was a little kid just like any other kid i played football and video games,
-          and here where i discovered my passion for computers.<br></br>
-          But what i liked the most is drawing and painting,
-          Because it allows me to create beautiful things and opens the door for my imagination.
-          Then i grow up to see the war taking over my country.<br></br>
-          So I left to Saudi Arabia and worked there in interior decoration.
-          Which i really liked because it has an artistic and creative sides.<br></br>
-          But i didn't find myself there for my values aren't aligned with the values in Saudi Arabia.
-          But they are in a line with the values here.<br></br>
-          Thats why i came to the Netherland.<br></br>
-          to have a new start.<br></br>
-          So the first thing i did was studeing Dutch.<br></br>
-          Then i found an ICT boot camp called "Restart Network" and joind the program.<br></br>
-          Although it was difficult for me to enter this new world of programing.<br></br>
-          on the other hand it was very interesting because it allows me to use technology to create new things which affect people's life and can make them happy.<br></br>
-          Then I did my internship at Deloitte as a part of the program, and there I learned new things and improved my skills in working with a team, plus I got the chance of meeting new people and extending my connection network.<br></br>
-          looking back makes me realize how this program changed my life and the way i think.<br></br>
-          and now after entering the world of technology.<br></br>
-          I want to keep going forward .<br></br>
-          To learn more and more.<br></br>
-          To make products that other people likes and makes a good impact on the society.<br></br>
-          And most importantly improve myself as a person and as a developer.<br></br>
-          Thank you!
-        </h3>
+        <h3>Hello,<br></br><br></br>
+My name is Kosay I'm from Syria.<br></br>
+When I was a little kid just like any other kid i played football and video games, and here where I discovered my passion for computers.<br></br>
+But what I liked the most is drawing and painting, Because it allows me to create beautiful things and opens the door for my imagination.<br></br>
+Then I grow up to see the war taking over my country.<br></br>
+So I left to Saudi Arabia and worked there in interior decoration.<br></br>
+Which I really liked because it has an artistic and creative sides.<br></br>
+But I didn't find myself there for my values aren't aligned with the values in Saudi Arabia.<br></br>
+But they are in a line with the values here.<br></br>
+That’s why I came to the Netherland. to have a new start.<br></br>
+So the first thing I did was studying Dutch.<br></br>
+Then I found an ICT boot camp called "Restart Network" and joined the program.<br></br>
+Although it was difficult for me to enter this new world of programing.<br></br>
+On the other hand it was very interesting because it allows me to use technology to create new things which affect people's life and can make them happy.<br></br>
+Then I did my internship at Deloitte as a part of the program, and there I learned new things and improved my skills in working with a team, plus I got the chance of meeting new people and extending my connection network.<br></br>
+Looking back makes me realize how this program changed my life and the way I think.<br></br>
+and now after entering the world of technology.<br></br>
+I want to keep going forward.<br></br>
+To learn more and more.<br></br>
+To make products that other people likes and makes a good impact on the society.<br></br>
+And most importantly improve myself as a person and as a developer.<br></br><br></br>
+Thank you!
+<hr></hr>
+     </h3>
       </div>)
     }
   }
