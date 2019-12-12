@@ -67,23 +67,21 @@ class Resume extends Component {
                  startYear={2018}
                  endYear={2019}
                  schoolName="Restart Network"
-                 schoolDescription="April 2018 _ September 2018 
-                                    ICT-bootcamp, Restart Network, Rotterdam, PHP, CodeIgniter, JavaScript, React Library, HTML/CSS, bootstraps, API, MYSQL, MongoDB"
+                 schoolDescription="ICT-bootcamp, Restart Network, Rotterdam, April 2018 - September 2018, PHP, CodeIgniter, JavaScript, React Library, HTML/CSS, bootstraps, API, MYSQL, MongoDB"
                   />
 
                 <Education
                  startYear={2018}
                  endYear={2019}
                  schoolName="Deloitte"
-                 schoolDescription="December 2018 - May 2019
-                                    Internship at Deloitte Rotterdam, from Dec 2018 _ May 2019, Tableau, JavaScript, Python/DataCamp"
+                 schoolDescription="Internship at Deloitte Rotterdam, from Dec 2018 - May 2019, Tableau, JavaScript, Python/DataCamp"
                   />
                    
                 <Education
                  startYear={2019}
                  endYear={2020}
                  schoolName="Deerns"
-                 schoolDescription="November 2019 - January 2020 Junior Developer at Deerns, Power Apps, PHP, MYSQL, API"
+                 schoolDescription="Junior Developer at Deerns, November 2019 - January 2020, Power Apps, PHP, MYSQL, API"
                   />
 
                 <hr style={{borderTop: '3px solid green'}} />
@@ -99,7 +97,7 @@ class Resume extends Component {
               startYear={2019}
               endYear={2020}
               jobName="The Hague Tech"
-              jobDescription="Event Assistant The Hague Tech, work on events, lunch, bartender"
+              jobDescription="Event Assistant The Hague Tech, August 2019 - April 2020, work on events, lunch, bartender"
               />
 
               <hr style={{borderTop: '3px solid green'}} />
