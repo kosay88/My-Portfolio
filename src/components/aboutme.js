@@ -88,7 +88,7 @@ class About extends Component {
           />
           
         <br></br>
-          <h2>bicycles</h2>
+          <h2>Bicycles</h2>
           <img
             id="hobbie-img"
             src={race_2019-08-17_1}
@@ -98,6 +98,15 @@ class About extends Component {
           <img
             id="hobbie-img"
             src={race_2019-08-17_2}
+            alt="hobbies"
+            style={{height: '300px'}}
+          />
+             
+        <br></br>
+          <h2>Swiming</h2>
+          <img
+            id="hobbie-img"
+            src={swim-20190826.jpg}
             alt="hobbies"
             style={{height: '300px'}}
           />
