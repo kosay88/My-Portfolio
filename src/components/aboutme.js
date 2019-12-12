@@ -91,13 +91,13 @@ class About extends Component {
           <h2>Bicycles</h2>
           <img
             id="hobbie-img"
-            src={race_2019-08-17_1}
+            src={race1}
             alt="hobbies"
             style={{height: '300px'}}
           />
           <img
             id="hobbie-img"
-            src={race_2019-08-17_2}
+            src={race2}
             alt="hobbies"
             style={{height: '300px'}}
           />
@@ -106,7 +106,7 @@ class About extends Component {
           <h2>Swiming</h2>
           <img
             id="hobbie-img"
-            src={swim-20190826.jpg}
+            src={swim}
             alt="hobbies"
             style={{height: '300px'}}
           />
