@@ -24,7 +24,7 @@ class Resume extends Component {
             <h2 style={{paddingTop: '1em'}}>Kosay Farag</h2>
             <h4 style={{color: 'grey'}}>Full Stack Web Developer</h4>
             <hr style={{borderTop: '3px solid #000046', width: '55%',}}/>
-            <p>I am an ambitious young man from Syria who works well together in a team. I have a lot of passion for technology and web development. I want to build a future in the IT sector.</p>
+            <p>I am an ambitious young man from Syria who works well in a team. I have a passion for computer technology and software development. looking forward to build a future in the IT sector In the Netherlands.</p>
             <hr style={{borderTop: '3px solid #000046', width: '55%'}}/>
             <h5>Address</h5>
             <p>EsperantoStraat 115, 2518LJ, Den Haag</p>
@@ -57,15 +57,15 @@ class Resume extends Component {
                  startYear={2016}
                  endYear={2018}
                  schoolName="Up2learn Den Haag"
-                 schoolDescription="Inburgeringscursus, Up2learn Den Haag"
+                 schoolDescription="Integration course, Up2learn Den Haag"
                  extraInfo1=". Dutch Language to level B2"
                  extraInfo2=". Knowledge of Dutch Society"
                  extraInfo3=". Orientation On the Dutch Labor Market"
                   />
 
                <Education
-                 startYear={2018}
-                 endYear={2019}
+                 startYear={April 2018}
+                 endYear={September 2019}
                  schoolName="Restart Network"
                  schoolDescription="ICT-bootcamp, Restart Network  Rotterdam, from Apr 2018 _ May 2019, Programming In HTML, Css, PHP Framework CodeIgniter, JavaScript, React, MySQL/NoSQL db, API"
                   />
