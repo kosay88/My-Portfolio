@@ -64,22 +64,22 @@ class Resume extends Component {
                   />
 
                <Education
-                 startYear={April 2018}
-                 endYear={September 2019}
+                 startYear={2018}
+                 endYear={2019}
                  schoolName="Restart Network"
                  schoolDescription="ICT-bootcamp, Restart Network, Rotterdam, PHP, CodeIgniter, JavaScript, React Library, HTML/CSS, bootstraps, API, MYSQL, MongoDB"
                   />
 
                 <Education
-                 startYear={December 2018}
-                 endYear={May 2019}
+                 startYear={2018}
+                 endYear={2019}
                  schoolName="Deloitte"
                  schoolDescription="Internship at Deloitte Rotterdam, from Dec 2018 _ May 2019, Tableau, JavaScript, Python/DataCamp"
                   />
                    
                 <Education
-                 startYear={November 2019}
-                 endYear={January 2020}
+                 startYear={2019}
+                 endYear={2020}
                  schoolName="Deerns"
                  schoolDescription="Junior Developer at Deerns, Power Apps, PHP, MYSQL, API"
                   />
@@ -94,8 +94,8 @@ class Resume extends Component {
               jobDescription="Interior decoration and design for ceilings and walls, Saudi Arabia and Syria"
               />
             <Experience
-              startYear={August 2019}
-              endYear={ April 2020}
+              startYear={2019}
+              endYear={2020}
               jobName="The Hague Tech"
               jobDescription="Event Assistant The Hague Tech, work on events, lunch, bartender"
               />
