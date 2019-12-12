@@ -86,6 +86,21 @@ class About extends Component {
             alt="hobbies"
             style={{height: '300px'}}
           />
+          
+        <br></br>
+          <h2>bicycles</h2>
+          <img
+            id="hobbie-img"
+            src={race_2019-08-17_1}
+            alt="hobbies"
+            style={{height: '300px'}}
+          />
+          <img
+            id="hobbie-img"
+            src={race_2019-08-17_2}
+            alt="hobbies"
+            style={{height: '300px'}}
+          />
 
           <br></br>
           <h2>Video games</h2>
