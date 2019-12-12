@@ -64,8 +64,8 @@ class Resume extends Component {
                   />
 
                <Education
-                 startYear={April 2018}
-                 endYear={September 2019}
+                 startYear={2018}
+                 endYear={2019}
                  schoolName="Restart Network"
                  schoolDescription="ICT-bootcamp, Restart Network  Rotterdam, from Apr 2018 _ May 2019, Programming In HTML, Css, PHP Framework CodeIgniter, JavaScript, React, MySQL/NoSQL db, API"
                   />
