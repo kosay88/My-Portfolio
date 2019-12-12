@@ -93,6 +93,12 @@ class Resume extends Component {
               jobName="Interior decoration and design"
               jobDescription="Interior decoration and design for ceilings and walls, Saudi Arabia and Syria"
               />
+            <Experience
+              startYear={August 2019}
+              endYear={ April 2020}
+              jobName="The Hague Tech"
+              jobDescription="Event Assistant The Hague Tech, work on events, lunch, bartender"
+              />
 
               <hr style={{borderTop: '3px solid green'}} />
 
@@ -115,7 +121,7 @@ class Resume extends Component {
                 />
               <Skills
                 skill="PHP"
-                progress={50}
+                progress={70}
                 />
               <Skills
                 skill="Codeigniter"
