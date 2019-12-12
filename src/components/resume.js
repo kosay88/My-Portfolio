@@ -75,7 +75,8 @@ class Resume extends Component {
                  startYear={2018}
                  endYear={2019}
                  schoolName="Deloitte"
-                 schoolDescription="Internship at Deloitte Rotterdam, from Dec 2018 _ May 2019, Tableau, JavaScript, Python/DataCamp"
+                 schoolDescription="December 2018 - May 2019
+                                    Internship at Deloitte Rotterdam, from Dec 2018 _ May 2019, Tableau, JavaScript, Python/DataCamp"
                   />
                    
                 <Education
