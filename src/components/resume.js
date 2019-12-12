@@ -83,7 +83,7 @@ class Resume extends Component {
                  startYear={2019}
                  endYear={2020}
                  schoolName="Deerns"
-                 schoolDescription="Junior Developer at Deerns, Power Apps, PHP, MYSQL, API"
+                 schoolDescription="November 2019 - January 2020 Junior Developer at Deerns, Power Apps, PHP, MYSQL, API"
                   />
 
                 <hr style={{borderTop: '3px solid green'}} />
