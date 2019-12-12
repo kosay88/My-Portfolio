@@ -15,9 +15,9 @@ class Contact extends Component {
               style={{height: '250px'}}
                />
              <p style={{ width: '75%', margin: 'auto', paddingTop: '1em'}}>
-                I am an ambitious young man from Syria who works well together in a team. 
-                I have a lot of passion for technology and web development. 
-                I want to build a future in the IT sector.</p>
+               I am an ambitious young man from Syria who works well in a team.
+               I have a passion for computer technology and software development.
+               looking forward to build a future in the IT sector In the Netherlands.</p>
           </Cell>
           <Cell col={6}>
             <h2>Contact Me</h2>
