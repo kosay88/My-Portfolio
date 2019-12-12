@@ -67,7 +67,8 @@ class Resume extends Component {
                  startYear={2018}
                  endYear={2019}
                  schoolName="Restart Network"
-                 schoolDescription="ICT-bootcamp, Restart Network, Rotterdam, PHP, CodeIgniter, JavaScript, React Library, HTML/CSS, bootstraps, API, MYSQL, MongoDB"
+                 schoolDescription="April 2018 _ September 2018 
+                                    ICT-bootcamp, Restart Network, Rotterdam, PHP, CodeIgniter, JavaScript, React Library, HTML/CSS, bootstraps, API, MYSQL, MongoDB"
                   />
 
                 <Education
