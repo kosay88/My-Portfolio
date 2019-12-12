@@ -64,17 +64,24 @@ class Resume extends Component {
                   />
 
                <Education
-                 startYear={2018}
-                 endYear={2019}
+                 startYear={April 2018}
+                 endYear={September 2019}
                  schoolName="Restart Network"
-                 schoolDescription="ICT-bootcamp, Restart Network  Rotterdam, from Apr 2018 _ May 2019, Programming In HTML, Css, PHP Framework CodeIgniter, JavaScript, React, MySQL/NoSQL db, API"
+                 schoolDescription="ICT-bootcamp, Restart Network, Rotterdam, PHP, CodeIgniter, JavaScript, React Library, HTML/CSS, bootstraps, API, MYSQL, MongoDB"
                   />
 
                 <Education
-                 startYear={2018}
-                 endYear={2019}
+                 startYear={December 2018}
+                 endYear={May 2019}
                  schoolName="Deloitte"
                  schoolDescription="Internship at Deloitte Rotterdam, from Dec 2018 _ May 2019, Tableau, JavaScript, Python/DataCamp"
+                  />
+                   
+                <Education
+                 startYear={November 2019}
+                 endYear={January 2020}
+                 schoolName="Deerns"
+                 schoolDescription="Junior Developer at Deerns, Power Apps, PHP, MYSQL, API"
                   />
 
                 <hr style={{borderTop: '3px solid green'}} />
