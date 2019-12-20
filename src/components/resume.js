@@ -27,7 +27,7 @@ class Resume extends Component {
             <p>I am an ambitious young man from Syria who works well in a team. I have a passion for computer technology and software development. looking forward to build a future in the IT sector In the Netherlands.</p>
             <hr style={{borderTop: '3px solid #000046', width: '55%'}}/>
             <h5>Address</h5>
-            <p>EsperantoStraat 115, 2518LJ, Den Haag</p>
+            <p>Wilhelmina van Pruisenweg 65, 2595AN, Den Haag</p>
             <h5>Phone</h5>
             <p>(+31) 610203003</p>
             <h5>Email</h5>
