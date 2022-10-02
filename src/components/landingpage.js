@@ -19,7 +19,7 @@ class Landing extends Component {
 
             <hr/>
 
-          <p>HTML/CSS | Bootstrap | JavaScript | React | NodeJS | Express | PHP | Codeigniter | MySQL | MongoDB | Tableau</p>
+          <p>HTML/CSS | Bootstrap | JavaScript | React | NodeJS | Express | PHP | Codeigniter | MySQL | MongoDB | Tableau | PowerBI | PowerApps</p>
 
         <div className="social-links">
 
