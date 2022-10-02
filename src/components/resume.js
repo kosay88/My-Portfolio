@@ -38,13 +38,35 @@ class Resume extends Component {
           </Cell>
           <Cell className="resume-right-col" col={8}>
 
-            <h2>Education</h2>
-            <Education
-              startYear={2002}
-              endYear={2006}
-              schoolName="Jamal Alrafe Secondary School"
-              schoolDescription="Secondary School, Suwayda, Syria"
-               />
+              <h2>Experience</h2>
+            <Experience
+              startYear={2010}
+              endYear={2014}
+              jobName="Interior decoration and design"
+              jobDescription="Interior decoration and design for ceilings and walls, Saudi Arabia and Syria"
+              />
+            <Experience
+              startYear={2019}
+              endYear={2020}
+              jobName="The Hague Tech"
+              jobDescription="Event Assistant at The Hague Tech, August 2019 - April 2020, work on events, lunch, bartender"
+              />
+            <Experience
+              startYear={2020}
+              endYear={2021}
+              jobName="Deerns"
+              jobDescription="Junior Developer at Deerns, November 2019 - January 2020, Power Apps, Power BI, JS"
+              />
+
+              <hr style={{borderTop: '3px solid green'}} />
+
+              <h2>Education</h2>
+             <Education
+                startYear={2002}
+                endYear={2006}
+                schoolName="Jamal Alrafe Secondary School"
+                schoolDescription="Secondary School, Suwayda, Syria"
+                 />
 
                <Education
                  startYear={2006}
@@ -86,22 +108,6 @@ class Resume extends Component {
 
                 <hr style={{borderTop: '3px solid green'}} />
 
-              <h2>Experience</h2>
-            <Experience
-              startYear={2010}
-              endYear={2014}
-              jobName="Interior decoration and design"
-              jobDescription="Interior decoration and design for ceilings and walls, Saudi Arabia and Syria"
-              />
-            <Experience
-              startYear={2019}
-              endYear={2020}
-              jobName="The Hague Tech"
-              jobDescription="Event Assistant The Hague Tech, August 2019 - April 2020, work on events, lunch, bartender"
-              />
-
-              <hr style={{borderTop: '3px solid green'}} />
-
               <h2>Skills</h2>
               <Skills
                 skill="HTML/CSS"
@@ -113,15 +119,15 @@ class Resume extends Component {
                 />
               <Skills
                 skill="NodeJS"
-                progress={40}
+                progress={10}
                 />
               <Skills
                 skill="React"
-                progress={60}
+                progress={20}
                 />
               <Skills
                 skill="PHP"
-                progress={70}
+                progress={60}
                 />
               <Skills
                 skill="Codeigniter"
@@ -133,7 +139,19 @@ class Resume extends Component {
                 />
               <Skills
                 skill="Tableau"
-                progress={70}
+                progress={60}
+                />
+              <Skills
+                skill="PowerBI"
+                progress={20}
+                />
+              <Skills
+                skill="PowerApps"
+                progress={80}
+                />
+              <Skills
+                skill="Tableau"
+                progress={60}
                 />
 
           </Cell>
