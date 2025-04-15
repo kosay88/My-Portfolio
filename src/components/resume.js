@@ -46,16 +46,28 @@ class Resume extends Component {
               jobDescription="Interior decoration and design for ceilings and walls, Saudi Arabia and Syria"
               />
             <Experience
+              startYear={2018}
+              endYear={2019}
+              schoolName="Deloitte"
+              schoolDescription="Internship at Deloitte Rotterdam, from Dec 2018 - May 2019, Tableau, JavaScript, Python/DataCamp"
+              />
+            <Experience
               startYear={2019}
               endYear={2020}
               jobName="The Hague Tech"
               jobDescription="Event Assistant at The Hague Tech, August 2019 - April 2020, work on events, lunch, bartender"
               />
             <Experience
-              startYear={2020}
-              endYear={2021}
+              startYear={2019}
+              endYear={2022}
               jobName="Deerns"
-              jobDescription="Junior Developer at Deerns, November 2019 - January 2020, Power Apps, Power BI, JS"
+              jobDescription="Junior Developer at Deerns, November 2019 - January 2020, Power Apps, Power BI, JS, PHP, MYSQL, API, Python, Microsoft, shareoints"
+              />
+            <Experience
+              startYear={2023}
+              endYear={2025}
+              jobName="Erasmus Q-Intelligence"
+              jobDescription="Frontend Developer at EQI, January 2023 - January 2025, Angular, TS, SQL/pgAdmin4, Power BI"
               />
 
               <hr style={{borderTop: '3px solid green'}} />
@@ -67,14 +79,12 @@ class Resume extends Component {
                 schoolName="Jamal Alrafe Secondary School"
                 schoolDescription="Secondary School, Suwayda, Syria"
                  />
-
                <Education
                  startYear={2006}
                  endYear={2012}
                  schoolName="University of Aleppo"
                  schoolDescription="Study of Law, University of Aleppo, Syria"
                   />
-
                <Education
                  startYear={2016}
                  endYear={2018}
@@ -84,46 +94,45 @@ class Resume extends Component {
                  extraInfo2=". Knowledge of Dutch Society"
                  extraInfo3=". Orientation On the Dutch Labor Market"
                   />
-
                <Education
                  startYear={2018}
                  endYear={2019}
                  schoolName="Restart Network"
                  schoolDescription="ICT-bootcamp, Restart Network, Rotterdam, April 2018 - September 2018, PHP, CodeIgniter, JavaScript, React Library, HTML/CSS, bootstraps, API, MYSQL, MongoDB"
                   />
-
-                <Education
-                 startYear={2018}
-                 endYear={2019}
-                 schoolName="Deloitte"
-                 schoolDescription="Internship at Deloitte Rotterdam, from Dec 2018 - May 2019, Tableau, JavaScript, Python/DataCamp"
-                  />
-                   
-                <Education
-                 startYear={2019}
-                 endYear={2020}
-                 schoolName="Deerns"
-                 schoolDescription="Junior Developer at Deerns, November 2019 - January 2020, Power Apps, PHP, MYSQL, API"
+               <Education
+                 startYear={2024}
+                 schoolName="Language institute | REGINA COELI"
+                 schoolDescription="One week, Dutch language B1-B2 level"
                   />
 
                 <hr style={{borderTop: '3px solid green'}} />
 
               <h2>Skills</h2>
               <Skills
+                skill="Angular"
+                progress={90}
+                />
+              <Skills
+                skill="Typescript"
+                progress={90}
+                />
+              <Skills
                 skill="HTML/CSS"
                 progress={80}
                 />
               <Skills
-                skill="javascript"
+                skill="Javascript"
+                progress={70}
+                />
+
+              <Skills
+                skill="NodeJS"
                 progress={70}
                 />
               <Skills
-                skill="NodeJS"
-                progress={10}
-                />
-              <Skills
                 skill="React"
-                progress={20}
+                progress={40}
                 />
               <Skills
                 skill="PHP"
@@ -143,7 +152,7 @@ class Resume extends Component {
                 />
               <Skills
                 skill="PowerBI"
-                progress={20}
+                progress={90}
                 />
               <Skills
                 skill="PowerApps"
