@@ -27,13 +27,13 @@ class Resume extends Component {
             <p>I am an ambitious young man from Syria who works well in a team. I have a passion for computer technology and software development. looking forward to build a future in the IT sector In the Netherlands.</p>
             <hr style={{borderTop: '3px solid #000046', width: '55%'}}/>
             //<h5>Address</h5>
-            //<p>Wilhelmina van Pruisenweg 65, 2595AN, Den Haag</p>
+            //<p>2521VL, Den Haag</p>
             <h5>Phone</h5>
             <p>(+31) 610203003</p>
             <h5>Email</h5>
             <p>kosay.faraj.88@gmail.com</p>
             <h5>Web</h5>
-            <p>https://kosayportfolio.netlify.com/</p>
+            <p>https://kosayportfolio.netlify.app/</p>
             <hr style={{borderTop: '3px solid #000046', width: '55%'}}/>
           </Cell>
           <Cell className="resume-right-col" col={8}>
